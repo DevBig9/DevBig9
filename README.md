@@ -29,9 +29,9 @@
 </div>
 
 ### 📈 Estatísticas do GitHub
-<div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IsaacMSilva&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacMSilva&layout=compact&theme=radical"/>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IsaacMSilva&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacMSilva&layout=compact&theme=radical" />
 </div>
 
 ### 📫 Onde me encontrar
