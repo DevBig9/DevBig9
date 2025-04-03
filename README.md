@@ -3,6 +3,7 @@
 ###
 
 <img align="right" height="150" src="https://media1.tenor.com/m/Ulqiakf4_4gAAAAC/programming.gif"  />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 ###
 
