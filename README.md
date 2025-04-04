@@ -4,7 +4,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media1.tenor.com/m/Ulqiakf4_4gAAAAC/programming.gif" />
+<img align="right" height="150" src="https://avatars.githubusercontent.com/u/194924752?v=4" />
 
 ### 🧐 Sobre mim
 💡 Apaixonado por tecnologia, programação e resolver problemas do mundo real.  
