@@ -4,7 +4,7 @@
 
 ###
 
-<img align="right" height="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2t4bm1oaHd1MGFuMjBmazc0b2F6Z2UxNjhod3AzbWNxdnJ2OW8yZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" />
+<img align="right" height="250" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2t4bm1oaHd1MGFuMjBmazc0b2F6Z2UxNjhod3AzbWNxdnJ2OW8yZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" />
 
 ### 🧐 Sobre mim
 💡 Apaixonado por tecnologia, programação e resolver problemas do mundo real.  
