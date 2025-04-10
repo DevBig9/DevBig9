@@ -1,7 +1,7 @@
 <h1 align="center">Isaac M. Silva | Futuro Dev Full-Stack 🚀</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=F75C7E&center=true&vCenter=true&width=435&lines=Olá%2C+eu+sou+o+Big!;Dev+em+construção...;Aprendendo+e+evoluindo+todo+dia!;Bem-vindo+ao+meu+repositório!+😎" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=F75C7E&center=true&vCenter=true&width=435&lines=Olá%2C+eu+sou+o+Big!;Dev+em+construção...;Aprendendo+e+evoluindo+todo+dia!;Bem-vindo+ao+meu+repositório!+😎" alt="https://bigdev9.netlify.app/" />
 </p>
 
 ---
