@@ -1,4 +1,4 @@
-<h1 align="center">Isaac M. Silva | Futuro Dev Full-Stack 🚀</h1>
+<h1 align="center">Isaac M. Silva | Desenvolvedor em Formação 🚀</h1>
 
 <img align="right" height="180" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2t4bm1oaHd1MGFuMjBmazc0b2F6Z2UxNjhod3AzbWNxdnJ2OW8yZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" />
 
@@ -38,8 +38,6 @@
 ### 💼 Meus Projetos Principais
 
 - 🔐 [Gerenciador de Senhas Local](https://github.com/DevBig9/Gerenciador-de-Senhas-Local): Projeto em C com senha mestre, armazenamento local e sistema de remoção.
-- 🏋️‍♂️ [BIGFIT (em construção)](#): App para treinos, dietas e automação de resultados, usando Python e banco de dados.
-
 ---
 
 ### 📫 Onde me encontrar
