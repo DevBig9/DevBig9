@@ -37,7 +37,7 @@
 
 ### 💼 Meus Projetos Principais
 
-- 🔐 [Gerenciador de Senhas Local](https://github.com/DevBig9/Gerenciador-de-Senhas-Local): Projeto em C com senha mestre, armazenamento local e sistema de remoção.
+- 🔐 [Gerenciador de Senhas Local](https://github.com/DevBig9/Gerenciador-de-Senhas-Local): Um gerenciador de senhas simples e seguro desenvolvido em C, com foco no armazenamento local e na segurança dos dados. Este projeto oferece funcionalidades essenciais para o gerenciamento de senhas com um sistema robusto de senha mestre, tentativas limitadas, criptografia, CRUD (criar, ler, atualizar e excluir senhas), e logs de acesso, tudo isso com uma interface interativa no terminal.
 ---
 
 ### 📫 Onde me encontrar
